@@ -4,5 +4,5 @@ accuracy = 93%.
 
 
 **
-I've trained it with specific dataset, It will classify spam messages only which I used in dataset.
-other spam messages which are not in dataset will be classified as ham.
+I've trained it with specific dataset, It will classify spam messages only which are in dataset.
+other spam messages which are not in dataset will be also classified as ham.
