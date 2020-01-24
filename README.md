@@ -1,6 +1,6 @@
-Spam messages classification using Random forest algorithm
-libraries used: numpy, pandas, Scikitlearn, matplotlib, spacy
-accuracy = 93%
+Spam messages classification using Random forest algorithm.
+libraries used: numpy, pandas, Scikitlearn, matplotlib, spacy.
+accuracy = 93%.
 
 
 **
